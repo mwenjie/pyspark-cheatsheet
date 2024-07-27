@@ -95,6 +95,7 @@ Table of contents
       * [Fill NULL values with group average](#fill-null-values-with-group-average)
       * [Unpack a DataFrame's JSON column to a new DataFrame](#unpack-a-dataframe-s-json-column-to-a-new-dataframe)
       * [Query a JSON column](#query-a-json-column)
+      * [Query an Array column](https://stackoverflow.com/questions/45789489/how-to-split-a-list-to-multiple-columns-in-pyspark)
    * [Sorting and Searching](#sorting-and-searching)
       * [Filter a column using a condition](#filter-a-column-using-a-condition)
       * [Filter based on a specific column value](#filter-based-on-a-specific-column-value)
